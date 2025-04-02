@@ -19,9 +19,11 @@ Top 5 States by Sales and Order Status Breakdown.
 ✅ Demographic Insights:
 
 Sales distribution by Gender & Age Groups.
+
 ✅ Sales Channels Performance: Analysis of Amazon, Flipkart, Myntra, and others.
 
 📊 Key Insights & Growth Opportunities
+
 📌 Maharashtra & Karnataka lead in sales—expanding local promotions can boost revenue.
 
 📌 Amazon (35%) & Myntra (23%) dominate sales—enhancing product visibility on these platforms can drive growth.
@@ -37,6 +39,9 @@ Sales distribution by Gender & Age Groups.
 📌 Microsoft Excel – Data Cleaning, Pivot Tables, Charts, and Slicers.
 
 📸 Dashboard Preview
+
+![image](https://github.com/user-attachments/assets/f834f98a-4fc5-4830-a306-7e493af3fb4b)
+
 
 🚀 How to Use
 
